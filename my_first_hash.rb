@@ -1,6 +1,6 @@
 def my_hash
   my_dog {
-    "name" => "Albus"
+    "name" => "Albus",
     "breed" => "Pitbull"
   }
 end
