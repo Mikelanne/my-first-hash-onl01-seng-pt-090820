@@ -3,7 +3,6 @@ def my_hash
     "name" => "Albus"
     "breed" => "Pitbull"
   }
-  
 end
 
 
